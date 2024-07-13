@@ -1,5 +1,9 @@
-## Developed live on twitch
+### I am solving the DSA challenged given here, the library was codded by ThePrimeagen
+
+
+## Developed live on twitch 
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
+
 
 ## Naming
 ### Lig-Machine
